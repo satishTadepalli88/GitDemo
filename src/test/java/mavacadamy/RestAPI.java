@@ -16,6 +16,8 @@ public class RestAPI {
 	public void RemainingAPI() 
 	{
 	   System.out.println("RemainApi");	
+	   System.out.println("RemainApi2");
+	   System.out.println("RemainApi3");
 	}
 	
 	
