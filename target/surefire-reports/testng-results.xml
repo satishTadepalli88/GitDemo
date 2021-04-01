@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+      <class name="mavacadamy.SeleniumTest">
+        <test-method status="PASS" signature="Automation()[pri:0, instance:mavacadamy.SeleniumTest@887af79]" name="Automation" duration-ms="8" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Automation -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:mavacadamy.SeleniumTest@887af79]" name="BrowserAutomation" duration-ms="1" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- mavacadamy.SeleniumTest -->
+      <class name="mavacadamy.RestAPI">
+        <test-method status="PASS" signature="RemainingAPI()[pri:0, instance:mavacadamy.RestAPI@7fac631b]" name="RemainingAPI" duration-ms="1" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemainingAPI -->
+        <test-method status="PASS" signature="ResAPI()[pri:0, instance:mavacadamy.RestAPI@7fac631b]" name="ResAPI" duration-ms="0" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResAPI -->
+      </class> <!-- mavacadamy.RestAPI -->
+      <class name="mavacadamy.AppiumTest">
+        <test-method status="PASS" signature="MobileTesting()[pri:0, instance:mavacadamy.AppiumTest@5b87ed94]" name="MobileTesting" duration-ms="0" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTesting -->
+        <test-method status="PASS" signature="celltesting()[pri:0, instance:mavacadamy.AppiumTest@5b87ed94]" name="celltesting" duration-ms="1" started-at="2021-02-08T10:57:26 IST" finished-at="2021-02-08T10:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- celltesting -->
+      </class> <!-- mavacadamy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
